@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#141311">
+  <meta name="description" content="Portfolios of the Slay the Spire 2 Characters">
+  <meta name="author" content="Landon Mahaffey">
+  <title>Meet the Ascenders</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="js/app.js"></script>
+  <link rel="icon" href="favicon.jpg" sizes="32x32" href="/favicon-32x32.jpg">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <a class="wordmark" href="index.html" aria-label="Meet the Ascenders home"><span class="brand-mark" aria-hidden="true">✦</span><span>THE SPIRE ARCHIVE</span></a>
+      <div class="menu-wrap">
+        <button class="menu-trigger" type="button" aria-expanded="false" aria-controls="site-menu" aria-haspopup="true"><span>MENU</span><span class="menu-glyph" aria-hidden="true"><i></i><i></i></span></button>
+        <nav class="site-menu" id="site-menu" aria-label="Main menu" hidden>
+          <a href="index.html">All characters <span>↗</span></a>
+          <a href="index.html?id=ironclad">Featured: The Ironclad <span>↗</span></a>
+          <a href="index.html?random=1">Random character<span>⤨</span></a>
+        </nav>
+      </div>
+    </header>
+    <main id="main-content" tabindex="-1">
+      <section class="hero">
+        <p class="eyebrow"><span class="eyebrow-line"></span> A FIELD GUIDE TO THE SPIRE <span class="eyebrow-line"></span></p>
+        <h1>Meet the <em>Ascenders</em></h1>
+        <p class="hero-copy">Six souls, one impossible climb. Choose a path into the Spire.</p>
+        <div class="hero-rule"><span>✦</span></div>
+      </section>
+      <section class="roster-section" aria-labelledby="roster-title">
+        <div class="section-heading"><div><p class="eyebrow small">THE ROSTER</p><h2 id="roster-title">Choose your ascender</h2></div><p class="roster-count"><span id="character-count">—</span> PROFILES</p></div>
+        <div id="content" aria-live="polite" aria-busy="true"><div class="loading-state"><span class="loader" aria-hidden="true"></span><p>Gathering records from the Spire…</p></div></div>
+      </section>
+    </main>
+    <footer><span>THE SPIRE ARCHIVE</span><span>THE CLIMB IS NEVER THE SAME TWICE</span></footer>
+  </div>
+</body>
+</html>

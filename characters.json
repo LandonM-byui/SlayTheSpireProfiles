@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ironclad", "name": "The Ironclad", "epithet": "LAST OF THE IRONCLADS", "type": "WARRIOR", "accent": "ember",
+    "bio": "The last soldier of the Ironclads. Bound to a demon, he crushes foes with sword and flame against his will.",
+    "portrait": "https://pub-50dac11dd9ed4bc88adfff4ce0fcef3a.r2.dev/imgs/characters/ironclad.jpg",
+    "motif": "A vow written in blood. A blade made for the climb."
+  },
+  {
+    "id": "silent", "name": "The Silent", "epithet": "HUNTRESS FROM BEYOND", "type": "HUNTRESS", "accent": "moss",
+    "bio": "A huntress from outside the Spire. She moves through the shadows, ready to stab and poison anything in her way.",
+    "portrait": "https://assets.st-note.com/production/uploads/images/259444844/270f4d7b5ce463a5ad7120678b5aacb7.png",
+    "motif": "The quietest step often comes just before the strike."
+  },
+  {
+    "id": "defect", "name": "The Defect", "epithet": "A MACHINE REWRITTEN", "type": "AUTOMATON", "accent": "azure",
+    "bio": "An automaton eternally modifying itself to survive. It deploys Orb technology when it must fight.",
+    "portrait": "https://assets.games.gg/slay_the_spire_2_defect_guide_master_orbs_and_dominate_og_2a0fdd8dcc.webp",
+    "motif": "Old purpose, new power. The machine keeps changing."
+  },
+  {
+    "id": "necrobinder", "name": "The Necrobinder", "epithet": "BINDER OF THE FORGOTTEN", "type": "LICH", "accent": "violet",
+    "bio": "A Spireborn lich who seeks revenge. In combat, she calls upon her trusty left hand, Osty.",
+    "portrait": "https://sts2-wiki.org/characters/Necrobinder.webp",
+    "motif": "Some bonds outlast the body that made them."
+  },
+  {
+    "id": "regent", "name": "The Regent", "epithet": "HEIR TO THE THRONE OF STARS", "type": "COSMIC HEIR", "accent": "gold",
+    "bio": "Heir to the Throne of Stars. He wields cosmic powers, while his minions do the work.",
+    "portrait": "https://img.sts2tools.com/sts2tools/images/characters/regent-guide/002_Regent_banner.png",
+    "motif": "A crown among the constellations. A blade still to be forged."
+  },
+  {
+    "id": "neow", "name": "Neow", "epithet": "MOTHER OF RESURRECTION", "type": "ANCIENT", "accent": "ice",
+    "bio": "An exiled Ancient who waits at the start of the climb. Neow brings the fallen back and offers a blessing before the ascent.",
+    "portrait": "https://img.game8.co/4032269/9ee210b51d13c5e0c3282afb81162085.png/show",
+    "motif": "“I’ve… remade you… go… up…”"
+  }
+]
